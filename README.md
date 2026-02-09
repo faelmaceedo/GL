@@ -29,6 +29,17 @@ O objetivo deste projeto foi criar uma presença digital imponente utilizando a 
 
 ---
 
+**Rafael Macêdo** *Desenvolvedor Fullstack focado em Landing Pages de Alta Conversão.*
+
+- **GitHub:** [@faelmaceedo](https://github.com/faelmaceedo)
+- **LinkedIn:** [Clique aqui para me encontrar no LinkedIn](https://www.linkedin.com/in/rafael-mac%C3%AAdo-921300123/)
+
+---
+<p align="center">
+  Este projeto foi construído sob o Protocolo NEXUS 2.0 🚀
+</p>
+
+
 ## 🚀 Como rodar o projeto localmente
 
 ```bash
@@ -44,17 +55,6 @@ npm install
 # Inicie o servidor
 npm run dev
 
-
 ---
-
+bash´´´
 ## 👨‍💻 Desenvolvedor
-
-**Rafael Macêdo** *Desenvolvedor Fullstack focado em Landing Pages de Alta Conversão.*
-
-- **GitHub:** [@faelmaceedo](https://github.com/faelmaceedo)
-- **LinkedIn:** [Clique aqui para me encontrar no LinkedIn](https://www.linkedin.com/in/rafael-mac%C3%AAdo-921300123/)
-
----
-<p align="center">
-  Este projeto foi construído sob o Protocolo NEXUS 2.0 🚀
-</p>
