@@ -55,7 +55,3 @@ npm install
 
 # Inicie o servidor
 npm run dev
-
----
-bash´´´
-## 👨‍💻 Desenvolvedor
