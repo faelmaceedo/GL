@@ -28,6 +28,7 @@ O objetivo deste projeto foi criar uma presença digital imponente utilizando a 
 - **CSS Variables** (Gerenciamento de Tokens de Design)
 
 ---
+## 👨‍💻 Desenvolvedor
 
 **Rafael Macêdo** *Desenvolvedor Fullstack focado em Landing Pages de Alta Conversão.*
 
